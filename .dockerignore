@@ -1,0 +1,6 @@
+bin/
+obj/
+publish/
+.idea/
+.git/
+.DS_Store
