@@ -1,0 +1,6 @@
+@Lab13AlejoMendoza.Persistence_HostAddress = http://localhost:5072
+
+GET {{Lab13AlejoMendoza.Persistence_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
