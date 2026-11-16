@@ -32,9 +32,4 @@ app.UseHttpsRedirection();
 
 app.MapControllers();
 
-var reportService =
-    new Lab13AlejoMendoza.Infrastructure.Adapters.Services.ReportService();
-
-reportService.ModifyExistingReport();
-
 app.Run();
